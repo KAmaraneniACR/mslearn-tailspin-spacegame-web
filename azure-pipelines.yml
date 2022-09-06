@@ -21,9 +21,9 @@ resources:
 
 #define variables
 variables:
-  buildConfiguration: $(BuildConfiguration)
+  buildConfiguration: 'Releae'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
-  dotnetSdkVersion: $(dotnetSdkVersion)
+  dotnetSdkVersion: '6.x'
 
 #ADOCS requires pipeline yaml file extending from shared template created by ADOCS team
 # You should provide parameters defined in shared template (shared-template.yml) as show below
