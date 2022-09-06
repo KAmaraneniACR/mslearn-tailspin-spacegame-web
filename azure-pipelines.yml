@@ -32,7 +32,7 @@ extends:
   # Below are parameters needed for shared template
   parameters:
     #parameters to set build version
-    buildVersionMajor: 
+    buildVersionMajor: 1
     buildVersionMinor: 0
     #Required
     #Provide tasks which will be executed for build process, below is an example of tasks for .net Core project
