@@ -21,7 +21,7 @@ resources:
 
 #define variables
 variables:
-  buildConfiguration: 'Releae'
+  buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '6.x'
 
